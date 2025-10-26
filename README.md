@@ -1,27 +1,41 @@
-# AI Marketing Dashboard
+# 🧠 AI Marketing Dashboard
 
-A portfolio-ready **AI Marketing Dashboard** built with **React**, **Vite**, **Sass**, **Framer Motion**, and **Recharts**.
-Designed to demonstrate a modern analytics UI with AI-driven suggestion panels, campaign management overview, and responsive charts — ideal for frontend portfolios.
+Modern **AI-Powered Marketing Analytics Dashboard** built with  
+⚛️ React + 🎨 Sass + 📈 Recharts + 🎞️ Framer Motion + ⚡ Vite
 
-## Features
-- KPI overview cards (Revenue, CPL, CTR, Conversions)
-- Visitors & Conversions line chart (Recharts)
-- Campaigns table with status and budget overview
-- AI Suggestions panel (mocked) with action button
-- Smooth animations with Framer Motion
-- Responsive layout and polished Sass styling
+![Preview](https://raw.githubusercontent.com/kiumars609/ai-marketing-dashboard/main/preview.png)
 
-## Quick start
+---
+
+## 🚀 Overview
+
+This project showcases a **responsive, animated marketing dashboard** with AI-driven insights — perfect for portfolio and frontend resume projects.
+
+### ✨ Features
+- 📊 **KPI Overview Cards** — revenue, CTR, conversions, CPL  
+- 📈 **Traffic Analytics Chart** — visitors & conversions (Recharts)  
+- 🎯 **Campaigns Table** — budgets, statuses, performance  
+- 🤖 **AI Suggestions Panel** — marketing insights powered by mock AI  
+- 🌀 **Framer Motion Animations** — smooth page transitions & hover effects  
+- 📱 **Fully Responsive** design built with Sass  
+
+---
+
+## 🛠️ Tech Stack
+| Tool | Purpose |
+|------|----------|
+| ⚛️ React | Frontend Framework |
+| 🎨 Sass | Styling System |
+| 🎞️ Framer Motion | Animations |
+| 📈 Recharts | Charts & Graphs |
+| ⚡ Vite | Fast Build Tool |
+
+---
+
+## ⚙️ Setup
+
 ```bash
-git clone https://github.com/YourUsername/ai-marketing-dashboard.git
+git clone https://github.com/kiumars609/ai-marketing-dashboard.git
 cd ai-marketing-dashboard
 npm install
 npm run dev
-```
-
-## Suggested repo name & description
-**Repository name:** `ai-marketing-dashboard`
-**Description:** `AI Marketing Dashboard — React + Sass + Recharts + Framer Motion. Portfolio-ready marketing analytics with AI-driven suggestions.`
-
----
-Made for portfolio & resume — tweak data and styles to personalize.
